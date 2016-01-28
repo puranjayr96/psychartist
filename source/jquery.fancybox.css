@@ -76,8 +76,7 @@
 }
 
 #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-	/*background-image: url('fancybox_sprite.png');*/
-	background: rgba(0,0,0,0.8);
+	background-image: url('fancybox_sprite.png');
 }
 
 #fancybox-loading {
